@@ -1,2 +1,5 @@
-/bin
-/obj
+/backend/Simple Auth System/.vs
+/backend/Simple Auth System/Simple Auth System/bin
+/backend/Simple Auth System/Simple Auth System/obj
+/frontend/simpleauthsystem/node_modules
+
