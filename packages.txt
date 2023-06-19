@@ -6,3 +6,26 @@ Microsoft.AspNetCore.Cors
 Microsoft.AspNetCore.Identity.EntityFrameworkCore
 Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
+
+
+frontend-
+
+npm i @material-ui/lab --force
+npm i axios --force
+npm install @material-ui/icons --force
+npm install @material-uicore --force
+npm i react-router-dom 5.3.0
+
+
+
+
+Database: SocialNetwork
+
+"ConnectionStrings": {
+    "AuthCon": "server=ATI-1;database=SocialNetwork;Integrated Security=True; MultipleActiveResultSets=true; TrustServerCertificate=True;"
+  }
+
+make tables into databse first then access it from vs
+
+
+SQL
